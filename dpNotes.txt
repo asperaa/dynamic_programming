@@ -1,0 +1,4 @@
+1.If there is a maximum/minimum constraint,you sholud be using the max/min function over the various possible solutions.
+2.If you want to count something,then try to include it into the "function arguement" rather than counting it using a global variable.
+3.In case of bottom up,fill the base cases manually.Mostly for loop is used to fill the table/array.
+4.
